@@ -6,9 +6,8 @@ namespace Test
     {
         public static void Main()
         {
-            Console.WriteLine("Hello world!");
             Console.WriteLine("And goodbye!");
-            Console.WriteLine("One more line.");
+            Console.WriteLine("Tore rocks!");
         }
     }
 }
